@@ -6,8 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/anaaaaa1312/)
 
 ## Sobre Mim
-Olá! Me chamo Ana Clara, tenho 21 anos, e sou estudante do curso de Gestão da tecnologia e informação, atualmente trabalho na área financeira, mas busco uma migração no mercado de trabalho para área de tecnologia. Atualmente além da faculdade estudo por fora realizando cursos de programação pela DIO, ADA e Udemy, assim, pensando no futuro adquirir conhecimentos necessários para me tornar uma desenvolvedora FullStack. Estou aberta a oportunidades de trabalho na área.
-Neste perfil você poderá ver minhas contribuições e projetos realizados por mim durante esse tempo que estudo outras linguagens.
+Olá, me chamo Ana Clara, tenho 21 anos, estudante do curso Ciência da Computação, atualmente no 1º semestre. Estou estudando e aprimorando meus conhecimentos em na programação, mais específico, o Front-end, e também em busca do meu primeiro estágio para, assim, conseguir colocar em prática meus conhecimentos, e pensando no futuro poder me tornar uma desenvolvedora FullStack.
 
 ## Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
