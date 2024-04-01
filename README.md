@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/anaaaaa1312/)
 
 ## Sobre Mim
-Olá, me chamo Ana Clara, tenho 22 anos, estudante do curso Ciência da Computação. Atualmente estou estudando e aprimorando meus conhecimentos em na programação, e também em busca do meu primeiro estágio para, assim, conseguir colocar em prática meus conhecimentos, e pensando no futuro poder me tornar uma desenvolvedora FullStack.
+Busco uma oportunidade de Estágio em desenvolvimento de software, afim de adquirir experiência junto com os meus estudos na faculdade de Ciência da computação e cursos extracurriculares. Tenho grande expectativa de contribuir de maneira ativa em projetos desafiadores para alcançar um objetivo em comum.
 
 ## Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
